@@ -75,7 +75,7 @@ honest, leakage-free validation over marginal leaderboard gains.
 
 ## Files
 
-- `DSN_Mart_Sales_Prediction.ipynb` — full analysis, experiments, and final model.
+- `DSN_Mart_Sales_Prediction.ipynb` - full analysis, experiments, and final model.
 
 ## Tools
 
